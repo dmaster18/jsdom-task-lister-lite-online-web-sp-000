@@ -20,6 +20,7 @@ behavior visually in the browser.
 2. Open `index.html` in Chrome (Tip: you can use `open index.html` in bash and, as long as Chrome is your default application for opening `.html` files, it will automatically open the file)
 3. Put your JavaScript knowledge to the test and work your way through the deliverables
 
+
 ## Structuring Your Code:
 
 You've been provided with a basic HTML file, as well as a `src/index.js` file
